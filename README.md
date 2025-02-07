@@ -31,7 +31,7 @@ This repository contains a Verilog implementation of an AXI4 Master-Slave system
 ## How to Use
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/devadutt-github/axi4_master_slave.git
+   git clone https://github.com/devadutt-github/AXI4_Master-Slave_design.git
    ```
 
 2. Simulate the design using any Verilog simulation tool (e.g., ModelSim, Synopsys VCS, or XSIM).
